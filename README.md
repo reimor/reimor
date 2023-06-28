@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reimorster
 - 👀 I’m interested in computing, engineering and finance
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reimorster)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reimorster&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
